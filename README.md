@@ -13,7 +13,7 @@
 * Steps
 * Clone Repository:
 * 
-* git clone https://github.com/Manishsingh89716/Backend_Engineer_Task
+* git clone https://github.com/Manishsingh89716/_CodingSphere_Software_Developer_Task
 * cd CodingSphere_Backend_Task
 * Install Dependencies:
 * pip install -r requirements.txt
