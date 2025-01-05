@@ -19,7 +19,7 @@
 * pip install -r requirements.txt
 * 
 * Configure MongoDB: Update connection string in app/__init__.py:
-* connect(host="mongodb+srv://<username>:<password>@<cluster>.mongodb.net/<database>?retryWrites=true&w=majority")
+* connect(host="mongodb+srv://mongoDBusername:mongoDBpassword@cluster0.qridz.mongodb.net/mongoDBdatabase?retryWrites=true&w=majority&appName=Cluster0")
 * Run the API:
 *
 * uvicorn app.main:app --reload
