@@ -13,8 +13,8 @@
 * Steps
 * Clone Repository:
 * 
-* git clone https://github.com/Manishsingh89716/_CodingSphere_Software_Developer_Task
-* cd CodingSphere_Backend_Task
+* git clone https://github.com/Manishsingh89716/RBAC_FastAPI_Application
+* cd RBAC_FastAPI_Application
 * Install Dependencies:
 * pip install -r requirements.txt
 * 
